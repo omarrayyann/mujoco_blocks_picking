@@ -1,7 +1,7 @@
-# MuJoCo Blocks Pick and Place Task
+# MuJoCo Blocks Stacking Task
 **Part of the [MujocoAR](https://github.com/omarrayyann/MujocoAR) package demos**
 
-A MuJoCo simulation environment of a simple blocks pick and place task. The simulation includes an operational space controller to handle the movement of the KUKA-iiwa14 arm with a gripper at the end.
+A MuJoCo simulation environment of a simple blocks stacking task. The simulation includes an operational space controller to handle the movement of the KUKA-iiwa14 arm with a gripper at the end.
 
 
 <table>
@@ -43,8 +43,8 @@ self.mujocoAR.start()
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/omarrayyann/mujoco_blocks_picking.git
-   cd mujoco_blocks_picking
+   git clone https://github.com/omarrayyann/mujoco_blocks_stacking.git
+   cd mujoco_blocks_stacking
    
 3. **Install MujocoAR and othe Requirements**:
    ```bash
